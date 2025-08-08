@@ -44,11 +44,18 @@
 
 ## 🌟 Featured Projects  
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**AgroBalance**](https://github.com/AmrutaSalagare/agrobalance) | IoT-based soil monitoring & crop recommendation system for precision agriculture. | IoT, Python, ML, Django, Raspberry Pi |
-| [**StreeRaksha**](https://github.com/AmrutaSalagare/streeraksha) | AI-powered women's safety platform with real-time alerts & gesture recognition. | YOLO, MediaPipe, React Native, FastAPI |
-| [**Lung Disease Classifier**](https://github.com/AmrutaSalagare/lung-disease-classifier) | CNN-based AI tool to classify chest X-rays for lung disease detection. | Python, TensorFlow, CNN |
+<p align="center">
+  <a href="https://github.com/AmrutaSalagare/agrobalance" target="_blank">
+    <img src="Agrobalance.jpg" alt="AgroBalance – Smart Farming" width="300" style="margin: 10px; border-radius: 12px;">
+  </a>
+  <a href="https://github.com/AmrutaSalagare/streeraksha" target="_blank">
+    <img src="streeraksha.jpg" alt="StreeRaksha – Women's Safety App" width="300" style="margin: 10px; border-radius: 12px;">
+  </a>
+  <a href="https://github.com/AmrutaSalagare/lung-disease-classifier" target="_blank">
+    <img src="lung(2).jpg" alt="Lung Disease Classifier – AI Project" width="300" style="margin: 10px; border-radius: 12px;">
+  </a>
+</p>
+
 
 ---
 
