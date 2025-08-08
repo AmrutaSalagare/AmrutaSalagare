@@ -45,16 +45,17 @@
 ## 🌟 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/AmrutaSalagare/agrobalance" target="_blank">
-    <img src="assets/agrobalance.png" alt="AgroBalance" height="200" style="margin: 10px; border-radius: 12px;">
+  <a href="https://github.com/AmrutaSalagare/AgroBalance" target="_blank">
+    <img src="assets/agrobalance.png" alt="AgroBalance" height="200" style="margin: 10px; border-radius: 15px;">
   </a>
-  <a href="https://github.com/AmrutaSalagare/streeraksha" target="_blank">
-    <img src="assets/streeraksha.png" alt="StreeRaksha" height="200" style="margin: 10px; border-radius: 12px;">
+  <a href="https://github.com/AmrutaSalagare/StreeRaksha" target="_blank">
+    <img src="assets/streeraksha.png" alt="StreeRaksha" height="200" style="margin: 10px; border-radius: 15px;">
   </a>
-  <a href="https://github.com/AmrutaSalagare/lung.png" target="_blank">
-    <img src="assets/lung.png" alt="Lung Disease Classifier" height="200" style="margin: 10px; border-radius: 12px;">
+  <a href="https://github.com/AmrutaSalagare/Lung-Disease-Classifier" target="_blank">
+    <img src="assets/lung.png" alt="Lung Disease Classifier" height="200" style="margin: 10px; border-radius: 15px;">
   </a>
 </p>
+
 
 
 
