@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://github.com/AmrutaSalagare/AgroBalance" target="_blank">
-    <img src="assets/agrobalance.png" alt="AgroBalance" height="200" style="margin: 10px; border-radius: 15px;">
+    <img src="assets/Agrobalance.png" alt="AgroBalance" height="200" style="margin: 10px; border-radius: 15px;">
   </a>
   <a href="https://github.com/AmrutaSalagare/StreeRaksha" target="_blank">
     <img src="assets/streeraksha.png" alt="StreeRaksha" height="200" style="margin: 10px; border-radius: 15px;">
