@@ -15,7 +15,7 @@
 💻 Passionate about **AI, Machine Learning, and Scalable Software Development**  
 🤝 Active **open-source contributor** and **community collaborator**  
 🎯 Strong believer in building **impact-driven technology**  
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/amrutasalagare/) | [Email](mailto:amrutasalagare2609@gmail.com)  
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/amruta-salagare-3a171325b/) | [Email](mailto:amrutasalagare2609@gmail.com)  
 
 ---
 
