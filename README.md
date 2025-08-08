@@ -46,13 +46,13 @@
 
 <p align="center">
   <a href="https://github.com/AmrutaSalagare/agrobalance" target="_blank">
-    <img src="assets/Agrobalance.png" alt="AgroBalance – Smart Farming" width="300">
+    <img src="assets/Agrobalance.png" alt="AgroBalance – Smart Farming" width="300" style="margin: 10px; border-radius: 12px;">
   </a>
   <a href="https://github.com/AmrutaSalagare/streeraksha" target="_blank">
-    <img src="assets/streeraksha.png" alt="StreeRaksha – Women's Safety App" width="300">
+    <img src="assets/streeraksha.png" alt="StreeRaksha – Women's Safety App" width="300" style="margin: 10px; border-radius: 12px;">
   </a>
   <a href="https://github.com/AmrutaSalagare/lung-disease-classifier" target="_blank">
-    <img src="assets/lung.png" alt="Lung Disease Classifier – AI Project" width="300">
+    <img src="assets/lung.png" alt="Lung Disease Classifier – AI Project" width="300" style="margin: 10px; border-radius: 12px;">
   </a>
 </p>
 
